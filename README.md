@@ -60,16 +60,16 @@ Password: admin123
   6. **Login and Logout**
   
 # Public Side
-    1.  **Home**
-    2. **Check Availability**
-    3.  **Transaction**
+1.  **Home**
+2. **Check Availability**
+3.  **Transaction**
           * Booking of rooms
           * Reservation of rooms
-    4.  **Room and Rates**
-    5.  **Accommodations**
-    6.  **Contact us**
-    7.  **Profile**
-    8.  **Login and Logout**
+4.  **Room and Rates**
+5.  **Accommodations**
+6.  **Contact us**
+7.  **Profile**
+8.  **Login and Logout**
 
 # Database Schema
 
