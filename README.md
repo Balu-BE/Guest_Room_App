@@ -63,8 +63,8 @@ Password: admin123
 1.  **Home**
 2. **Check Availability**
 3.  **Transaction**
-          * Booking of rooms
-          * Reservation of rooms
+       * Booking of rooms
+       * Reservation of rooms
 4.  **Room and Rates**
 5.  **Accommodations**
 6.  **Contact us**
